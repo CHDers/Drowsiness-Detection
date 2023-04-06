@@ -1,3 +1,12 @@
+'''
+🚀🚀🚀🚀🚀🚀: 
+Descripttion: Yanjun Hao的代码
+version: 1.0.0
+Author: Yanjun Hao
+Date: 2023-04-06 18:53:36
+LastEditors: Yanjun Hao
+LastEditTime: 2023-04-06 18:56:19
+'''
 from flask import Flask,redirect, url_for,render_template,request
 import os
 from index import d_dtcn
@@ -48,4 +57,3 @@ def cool_form():
 
 if __name__ == "__main__":
     app.run()
-    
